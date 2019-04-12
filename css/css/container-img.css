@@ -48,7 +48,7 @@
   width: 215px;
   height: 65px;
   overflow: hidden;
-  margin-right: 10px;
+  margin-right: 25px;
   position: relative;
 }
 @media screen and (max-width: 768px) {
@@ -59,7 +59,7 @@
 }
 @media screen and (max-width: 500px) {
   .container-img .con-img .img-btn .img-btn-1, .container-img .con-img .img-btn .img-btn-2 {
-    padding: 0 20px;
+    margin: 0 30px;
   }
 }
 .container-img .con-img .img-btn .img-btn-1 p, .container-img .con-img .img-btn .img-btn-2 p {

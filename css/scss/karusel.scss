@@ -1,9 +1,12 @@
 .karusel{
-  min-height: 680px;
+  min-height: 800px;
   display: flex;
   align-items: flex-end;
+  @media screen and (max-width: 1500px) {
+  min-height: 700px;
+  }
   @media screen and (max-width: 900px) {
-    min-height: 780px;
+  min-height: 780px;
   }
   .kar{
     width: 100%;
